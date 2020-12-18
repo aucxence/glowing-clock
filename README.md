@@ -1,6 +1,11 @@
 # Demo of the React "Glowing Clock"
 
+## normal view
+
 ![Capture d’écran (22)](https://user-images.githubusercontent.com/51159780/102662941-1e9a9a80-4180-11eb-8dc5-9a35d52183e5.png)
+
+## hover effect
+
 ![Capture d’écran (21)](https://user-images.githubusercontent.com/51159780/102662945-20645e00-4180-11eb-8f2c-a81e0cf34ac2.png)
 
 # Little talk

@@ -1,3 +1,12 @@
+# Demo of the React "Glowing Clock"
+
+![Capture d’écran (22)](https://user-images.githubusercontent.com/51159780/102662941-1e9a9a80-4180-11eb-8dc5-9a35d52183e5.png)
+![Capture d’écran (21)](https://user-images.githubusercontent.com/51159780/102662945-20645e00-4180-11eb-8f2c-a81e0cf34ac2.png)
+
+# Little talk
+
+I liked this. So I decided to reproduce it with ReactJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
